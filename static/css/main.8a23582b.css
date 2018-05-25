@@ -1,0 +1,2 @@
+.Camera{position:fixed;top:0;left:0;width:100vw;height:100vh;background:#000}.Camera .snap{position:fixed;bottom:40px;left:calc(50vw - 50px - 10px);width:100px;height:100px;border-radius:1000px;background:#eee;border:20px solid rgba(30,30,30,50%);-webkit-transition:all .1s;-o-transition:.1s all;transition:all .1s}.Camera:active .snap{border:20px solid rgba(30,30,30,20%)}
+/*# sourceMappingURL=main.8a23582b.css.map*/
