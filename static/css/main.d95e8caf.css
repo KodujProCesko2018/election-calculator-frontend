@@ -1,0 +1,2 @@
+.Camera{position:fixed;top:0;left:0;width:100vw;height:100vh;background:#000}.Camera button{position:fixed;bottom:30px;left:calc(50vw - 50px);width:100px;height:100px;border-radius:1000px;background:#eee;border:20px solid rgba(30,30,30,50%);-webkit-transition:all .1s;-o-transition:.1s all;transition:all .1s}.Camera:hover button{border:30px solid rgba(30,30,30,20%)}button:active{outline:none}
+/*# sourceMappingURL=main.d95e8caf.css.map*/
